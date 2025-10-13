@@ -13,3 +13,16 @@ dependencies:
   - pillow
   - ipywidgets
   - ipycanvas
+  - plotly
+  - pandas
+  - nbformat
+  - anywidget
+  - scipy
+  - sympy
+  - qutip
+  - pip
+  - ipympl
+  - ipyleaflet
+  - bqplot
+  - jupyterlab-fasta
+  - jupyterlab-geojson
