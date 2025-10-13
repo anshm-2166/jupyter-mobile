@@ -4,10 +4,10 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
-  - xeus-lua
-  - xeus-r
-  - xeus-cpp
-  - xeus-javascript
+  # - xeus-lua
+  # - xeus-r
+  # - xeus-cpp
+  # - xeus-javascript
   - numpy
   - matplotlib
   - pillow
