@@ -4,24 +4,25 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
-  - ipycanvas
-  - pandas
-  - numpy
-  - scikit-learn
-  - sympy
-  - requests
-  - Pillow
-  - scipy
-  - psutil
-  - anywidget
-  - ipycanvas
-  - ipyvue
-  - ipytree
-  - qutip
-  - matplotlib
-  - seaborn
-  - plotly
-  - bqplot
-  - ipympl
-  - altair
-  - graphviz
+  - pip
+  - pip:
+      - ipycanvas
+      - pandas
+      - numpy
+      - scikit-learn
+      - sympy
+      - requests
+      - Pillow
+      - scipy
+      - psutil
+      - anywidget
+      - ipyvue
+      - ipytree
+      - qutip
+      - matplotlib
+      - seaborn
+      - plotly
+      - bqplot
+      - ipympl
+      - altair
+      - graphviz
