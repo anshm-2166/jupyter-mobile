@@ -4,25 +4,13 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
-  # - xeus-lua
-  # - xeus-r
-  # - xeus-cpp
-  # - xeus-javascript
   - numpy
   - matplotlib
-  - pillow
-  - ipywidgets
-  - ipycanvas
-  - plotly
   - pandas
+  - plotly
   - nbformat
-  - anywidget
   - scipy
-  - sympy
+  - scikit-learn
   - qutip
   - pip
-  - ipympl
-  - ipyleaflet
   - bqplot
-  - jupyterlab-fasta
-  - jupyterlab-geojson
