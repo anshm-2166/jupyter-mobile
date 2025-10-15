@@ -8,21 +8,22 @@ dependencies:
   - numpy
   - Pillow
   - matplotlib
+  - scikit-learn
+  - sympy
+  - plotly
+  - bqplot
+  - qutip
+  - scipy
+  - ipycanvas
+  - anywidget
+  - ipyvue
+  - graphviz
+  - ipytree
+  - seaborn
+  - ipympl
+  - altair
+  - psutil
   - pip
   - pip:
-      - ipycanvas
-      - scikit-learn
-      - sympy
       - requests
-      - scipy
-      - psutil
-      - anywidget
-      - ipyvue
-      - ipytree
-      - qutip
-      - seaborn
-      - plotly
-      - bqplot
-      - ipympl
-      - altair
-      - graphviz
+      
