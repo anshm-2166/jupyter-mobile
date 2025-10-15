@@ -4,15 +4,20 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
-  # Common scientific libraries
-  - numpy
-  - scipy
+  - ipycanvas
   - pandas
+  - numpy
   - scikit-learn
   - sympy
+  - requests
+  - Pillow
+  - scipy
+  - psutil
+  - anywidget
+  - ipycanvas
+  - ipyvue
+  - ipytree
   - qutip
-
-  # Visualization libraries
   - matplotlib
   - seaborn
   - plotly
@@ -20,39 +25,3 @@ dependencies:
   - ipympl
   - altair
   - graphviz
-  - pillow
-
-  # Interactive/Geospatial visualization
-  - ipyleaflet
-  - folium
-  - bokeh
-  - hvplot
-  - holoviews
-
-  # Data I/O & manipulation
-  - openpyxl
-  - xlrd
-  - pyarrow
-  - fastparquet
-  - sqlalchemy
-  - requests
-
-  # Statistical / ML extensions
-  - statsmodels
-  - xgboost
-  - lightgbm
-
-  # Utility packages for notebooks
-  - tqdm
-  - rich
-  - psutil
-  - anywidget
-  - ipycanvas
-  - ipyvue
-  - ipytree
-  - ipycytoscape
-
-  # Optional: code formatting & linting
-  - black
-  - flake8
-  - isort
