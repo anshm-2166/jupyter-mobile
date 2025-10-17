@@ -23,8 +23,9 @@ dependencies:
   - altair
   - nbformat
   - ipyleaflet
+  - fastjsonschema
   - pip
   - pip:
       - requests
-      - nbformat
+      
       
