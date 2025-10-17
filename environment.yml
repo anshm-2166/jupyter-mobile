@@ -21,6 +21,7 @@ dependencies:
   - seaborn
   - ipympl
   - altair
+  - nbformat
   - ipyleaflet
   - pip
   - pip:
